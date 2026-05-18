@@ -26,6 +26,9 @@ This repository includes implementations and evaluation scripts for the followin
 - **PipeANN**: Low-latency, billion-scale, updatable graph-based vector store with ultra-low latency (<1ms) and efficient update mechanisms.
   - Original repository: https://github.com/thustorage/PipeANN
   - See [PipeANN/README.md](PipeANN/README.md) for detailed documentation
+- **DGAI**: Decoupled On-Disk Graph‑Based ANN Index for Efficient Updates and Queries
+  - Original repository: https://github.com/iDC-NEU/DGAI
+  - See [DGAI/README_run.md](PipeANN/README.md) for detailed documentation
 
 ## Getting Started
 
