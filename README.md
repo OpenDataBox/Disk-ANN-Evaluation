@@ -52,6 +52,7 @@ Please refer to the README file in each system's directory for specific build in
 - [Gorgeous Build Instructions](Gorgeous/README.md)
 - [PageANN Build Instructions](PageANN/README.md)
 - [PipeANN Build Instructions](PipeANN/README.md)
+- [DGAI Build Instructions](DGAI/README_run.md)
 
 ### Running Experiments
 
