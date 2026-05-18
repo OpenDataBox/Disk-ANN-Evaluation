@@ -28,7 +28,7 @@ This repository includes implementations and evaluation scripts for the followin
   - See [PipeANN/README.md](PipeANN/README.md) for detailed documentation
 - **DGAI**: Decoupled On-Disk Graph‑Based ANN Index for Efficient Updates and Queries
   - Original repository: https://github.com/iDC-NEU/DGAI
-  - See [DGAI/README_run.md](PipeANN/README.md) for detailed documentation
+  - See [DGAI/README_run.md](DGAI/README_run.md) for detailed documentation
 
 ## Getting Started
 
