@@ -8,7 +8,7 @@ This repository contains the experimental codebase and evaluation scripts for ou
 This repository includes implementations and evaluation scripts for the following disk-resident ANN systems:
 
 - **AiSAQ**: A scalable, DRAM-free approximate nearest neighbor search method with product quantization. Features inline PQ vectors, optimal vector rearrangement.
-  - Original repository: [https://github.com/antifreeze53/aisaq-diskann](https://github.com/KioxiaAmerica/aisaq-diskann)
+  - Original repository: https://github.com/KioxiaAmerica/aisaq-diskann
   - See [AiSAQ/README.md](AiSAQ/README.md) for detailed documentation
 
 - **FreshDiskANN**: Microsoft's DiskANN implementation with support for dynamic updates and streaming scenarios.
